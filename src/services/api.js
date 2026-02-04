@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = 'http://localhost:4000';
+const BASE_URL = 'https://api2026.onrender.com/';
 
 const api = axios.create({
     baseURL: BASE_URL,
